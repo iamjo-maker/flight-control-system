@@ -4,6 +4,6 @@ If you are using a different board, check the GPIO pin numbers and change them a
 The code itself has multiple 'blocks' for testing different functions of your hardware.
 Just follow along the comments to find out which block does what. 
 
-#Use Only One Block At A Time.
+Use Only One Block At A Time.
 
-To use a block, just remove the comment start (the "/*") and end (the "*/") notations.
+To use a block, just remove the comment start and end (the "/*" and the " */") notations.
